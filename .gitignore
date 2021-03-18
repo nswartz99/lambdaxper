@@ -1,0 +1,6 @@
+.classpath
+.project
+out.*
+target
+.settings
+bucket-name.txt

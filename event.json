@@ -1,0 +1,9 @@
+{
+  "iterations": 100,
+  "dimension": 10,
+  "xStart": 0.344,
+  "yStart": 0.34,
+  "xEnd": 0.39,
+  "yEnd": 0.39,
+  "Comment": "1000 iterations and 500 dimension is about 8.5 seconds"
+}
